@@ -1,0 +1,4 @@
+self: play -> metro 0.1
+
+require:
+    - play
